@@ -28,3 +28,6 @@ $ npm run dev
 Go to localhost:3000
 
 ```
+
+## Example Output
+![image](https://user-images.githubusercontent.com/50173238/149763763-2c0d0336-fee6-44bc-ab93-fa60689b75e4.png)
